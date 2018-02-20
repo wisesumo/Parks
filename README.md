@@ -1,6 +1,6 @@
 # DNR Parks
 
-This is one of three sites that showcase my abilities to use HTML, CSS and Javascript to layout websites using the Box Model and Flexbox. 
+This is one of three sites that showcase my abilities to use HTML, CSS and Javascript to layout websites using the Box Model and Flexbox. Live Demo: https://wisesumo.github.io/Parks/
 
 * Flexbox - News website:
 https://wisesumo.github.io/News/
